@@ -1,5 +1,6 @@
 # Serene-App-Portfolio
 Technical analysis portfolio for "Serene," a digital wellbeing startup. Includes Entity Relationship Diagrams (ERD), REST API Specifications (OpenAPI), and SQL Data Analysis for KPI tracking.
+[Click here to view the Data Model PDF](Serene_Data_Model.pdf)
 Serene: Digital Wellbeing Application
 Focus:Data Modeling, API Design, Business Intelligence (SQL)  
 
@@ -24,3 +25,4 @@ Logic: Defined precise JSON response payloads for "Locked" vs. "Unlocked" conten
 3. Business Intelligence & SQL Analysis
 Wrote SQL queries to measure product success and guide feature prioritization.
 KPIs Tracked:Premium Conversion Rate, User Churn Risk, Regional Engagement.
+
