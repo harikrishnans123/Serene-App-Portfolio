@@ -21,7 +21,6 @@ Solution: Implemented a 1:1 relationship for Subscriptions and a 1:N relationshi
 
 2. API Specifications (OpenAPI/Swagger)
 Authored a "Contract-First" API specification to reduce ambiguity between frontend and backend development teams.
-Endpoint: `GET /api/v1/daily-content`
 Logic: Defined precise JSON response payloads for "Locked" vs. "Unlocked" content states.
 
 3. Business Intelligence & SQL Analysis
