@@ -10,7 +10,7 @@ Executive Summary
 
 Serene is a "Slow Social" mobile application designed to reduce screen time anxiety through finite, curated daily content. Unlike traditional infinite-scroll platforms, Serene delivers a fixed set of 3-6 multimedia moments per day, encouraging mindful consumption over dopamine addiction.
 
-This repository serves as a Technical Analysis Portfolio, documenting the backend logic, data architecture, and integration standards required to build the platform at scal
+This repository serves as a Technical Analysis Portfolio, documenting the backend logic, data architecture, and integration standards required to build the platform at scale
 
 Technical Artifacts
 
